@@ -49,3 +49,14 @@ To assess the performance of the machine learning models, the following evaluati
 3. **F1-Score**
 
 4. **Specificity**
+
+
+## Files
+
+1. Read_data.R
+2. Preprocessing.R
+3. Resampling_and_RFE.ipynb
+4. read_new_data.R
+5. PC_and_HC_for_BN.R
+6. BN_final.R
+7. RandomForest.R
