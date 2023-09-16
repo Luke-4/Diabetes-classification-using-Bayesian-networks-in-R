@@ -32,9 +32,9 @@ Here are the models implemented:
 
 1. **Bayesian Networks**
    - Estimating the Structure	
-   - PC Algorithm
-   - HC Algorithm
-   - Domain Knowledge Approach  
+      - PC Algorithm
+      - HC Algorithm
+      - Domain Knowledge Approach  
 
 2. **Random Forest Classifier**
 
