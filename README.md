@@ -4,7 +4,7 @@
 
 This project focuses on leveraging Bayesian networks for early diagnosis of diabetes based on a set of symptoms. Diabetes is a pervasive and debilitating condition, affecting millions worldwide and posing significant health risks. It can lead to severe complications, including heart disease, stroke, kidney problems, vision loss, and neuropathy, severely impacting the quality of life for those affected.
 
-Our study involves a comparative analysis between Bayesian network models and a widely-used control model, Random Forest. Bayesian networks are particularly promising in improving early diagnosis, which is crucial for timely intervention and treatment.
+This work involves a comparative analysis between Bayesian network models and a widely-used control model, Random Forest. Bayesian networks are particularly promising in improving early diagnosis, which is crucial for timely intervention and treatment.
 
 The Bayesian networks in our analysis incorporate several key risk factors as nodes, including age, BMI (Body Mass Index), cholesterol level, blood pressure, and previous stroke history, among others. These factors have been linked to diabetes, and by including them as nodes in our models, we aim to improve the accuracy of diabetes prediction. Below is an organized breakdown of the project's key components and features:
 
